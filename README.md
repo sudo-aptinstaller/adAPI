@@ -1,1 +1,1 @@
-# Ad for API
+# API for Ad holder.
